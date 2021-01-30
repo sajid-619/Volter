@@ -1,0 +1,2417 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1920px;
+	 height: 11921px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 11921px;
+	 z-index:1;
+} 
+
+ #Rectangle 
+{ 
+	 left: -1px; 
+	 top: 11120px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 803px;
+	 z-index:2;
+} 
+
+ #Rectangle_0 
+{ 
+	 left: -1px; 
+	 top: 11777px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 4px;
+	 z-index:3;
+} 
+
+ #VOLTER2015AllRi 
+{ 
+	 left: 784px; 
+	 top: 11832px; 
+	 position: absolute; 
+	 width: 352px;
+	 height: 37px;
+	 z-index:4;
+} 
+
+ #CompositePath 
+{ 
+	 left: 1138px; 
+	 top: 11624px; 
+	 position: absolute; 
+	 width: 123px;
+	 height: 70px;
+	 z-index:5;
+} 
+
+ #CompositePath_0 
+{ 
+	 left: 401px; 
+	 top: 11638px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 42px;
+	 z-index:6;
+} 
+
+ #CompositePath_1 
+{ 
+	 left: 650px; 
+	 top: 11638px; 
+	 position: absolute; 
+	 width: 142px;
+	 height: 42px;
+	 z-index:7;
+} 
+
+ #CompositePath_2 
+{ 
+	 left: 1366px; 
+	 top: 11638px; 
+	 position: absolute; 
+	 width: 143px;
+	 height: 42px;
+	 z-index:8;
+} 
+
+ #CompositePath_3 
+{ 
+	 left: 895px; 
+	 top: 11630px; 
+	 position: absolute; 
+	 width: 130px;
+	 height: 58px;
+	 z-index:9;
+} 
+
+ #Rectangle_1 
+{ 
+	 left: 612px; 
+	 top: 11607px; 
+	 position: absolute; 
+	 width: 218px;
+	 height: 103px;
+	 z-index:10;
+} 
+
+ #Rectangle_2 
+{ 
+	 left: 374px; 
+	 top: 11607px; 
+	 position: absolute; 
+	 width: 217px;
+	 height: 103px;
+	 z-index:11;
+} 
+
+ #Rectangle_3 
+{ 
+	 left: 851px; 
+	 top: 11607px; 
+	 position: absolute; 
+	 width: 218px;
+	 height: 103px;
+	 z-index:12;
+} 
+
+ #Rectangle_4 
+{ 
+	 left: 1090px; 
+	 top: 11607px; 
+	 position: absolute; 
+	 width: 218px;
+	 height: 103px;
+	 z-index:13;
+} 
+
+ #Rectangle_5 
+{ 
+	 left: 1329px; 
+	 top: 11607px; 
+	 position: absolute; 
+	 width: 217px;
+	 height: 103px;
+	 z-index:14;
+} 
+
+ #Rectangle_6 
+{ 
+	 left: 778px; 
+	 top: 11458px; 
+	 position: absolute; 
+	 width: 160px;
+	 height: 43px;
+	 z-index:15;
+} 
+
+ #layer_16 
+{ 
+	 left: 954px; 
+	 top: 11471px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 18px;
+	 z-index:16;
+} 
+
+ #layer_17 
+{ 
+	 left: 1005px; 
+	 top: 11474px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 13px;
+	 z-index:17;
+} 
+
+ #layer_18 
+{ 
+	 left: 1053px; 
+	 top: 11473px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 13px;
+	 z-index:18;
+} 
+
+ #layer_19 
+{ 
+	 left: 1107px; 
+	 top: 11471px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 17px;
+	 z-index:19;
+} 
+
+ #FACEBOOK 
+{ 
+	 left: 813px; 
+	 top: 11476px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 10px;
+	 z-index:20;
+} 
+
+ #Rectangle_7 
+{ 
+	 left: 986px; 
+	 top: 11458px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 43px;
+	 z-index:21;
+} 
+
+ #Rectangle_8 
+{ 
+	 left: 1036px; 
+	 top: 11458px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 43px;
+	 z-index:22;
+} 
+
+ #Rectangle_9 
+{ 
+	 left: 1089px; 
+	 top: 11458px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 43px;
+	 z-index:23;
+} 
+
+ #Rectangle_10 
+{ 
+	 left: 1139px; 
+	 top: 11458px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 43px;
+	 z-index:24;
+} 
+
+ #Loremipsumdolorsi 
+{ 
+	 left: 561px; 
+	 top: 11368px; 
+	 position: absolute; 
+	 width: 798px;
+	 height: 44px;
+	 z-index:25;
+} 
+
+ #CompositePath_4 
+{ 
+	 left: 809px; 
+	 top: 11277px; 
+	 position: absolute; 
+	 width: 137px;
+	 height: 33px;
+	 z-index:26;
+} 
+
+ #Path 
+{ 
+	 left: 877px; 
+	 top: 11290px; 
+	 position: absolute; 
+	 width: 84px;
+	 height: 32px;
+	 z-index:27;
+} 
+
+ #CompositePath_5 
+{ 
+	 left: 966px; 
+	 top: 11296px; 
+	 position: absolute; 
+	 width: 145px;
+	 height: 15px;
+	 z-index:28;
+} 
+
+ #Rectangle_11 
+{ 
+	 left: -1px; 
+	 top: 8727px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 2396px;
+	 z-index:29;
+} 
+
+ #GOTOOURBLOG 
+{ 
+	 left: 890px; 
+	 top: 10936px; 
+	 position: absolute; 
+	 width: 139px;
+	 height: 12px;
+	 z-index:30;
+} 
+
+ #Rectangle_12 
+{ 
+	 left: 869px; 
+	 top: 10915px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 52px;
+	 z-index:31;
+} 
+
+ #Bitmap 
+{ 
+	 left: 375px; 
+	 top: 10324px; 
+	 position: absolute; 
+	 width: 670px;
+	 height: 500px;
+	 z-index:32;
+} 
+
+ #Rectangle_13 
+{ 
+	 left: 374px; 
+	 top: 10323px; 
+	 position: absolute; 
+	 width: 672px;
+	 height: 503px;
+	 z-index:33;
+} 
+
+ #placehoder 
+{ 
+	 left: 375px; 
+	 top: 10324px; 
+	 position: absolute; 
+	 width: 670px;
+	 height: 500px;
+	 z-index:34;
+} 
+
+ #READMORE 
+{ 
+	 left: 1093px; 
+	 top: 10731px; 
+	 position: absolute; 
+	 width: 88px;
+	 height: 10px;
+	 z-index:35;
+} 
+
+ #WEBDESIGN260620 
+{ 
+	 left: 1127px; 
+	 top: 10530px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 12px;
+	 z-index:36;
+} 
+
+ #Loremipsumdolorsi_0 
+{ 
+	 left: 1127px; 
+	 top: 10570px; 
+	 position: absolute; 
+	 width: 398px;
+	 height: 71px;
+	 z-index:37;
+} 
+
+ #LOREMIPSUMDOLORADO 
+{ 
+	 left: 1093px; 
+	 top: 10423px; 
+	 position: absolute; 
+	 width: 350px;
+	 height: 56px;
+	 z-index:38;
+} 
+
+ #Rectangle_14 
+{ 
+	 left: 1092px; 
+	 top: 10516px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 62px;
+	 z-index:39;
+} 
+
+ #Rectangle_15 
+{ 
+	 left: 1191px; 
+	 top: 10735px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 3px;
+	 z-index:40;
+} 
+
+ #Bitmap_0 
+{ 
+	 left: 876px; 
+	 top: 9734px; 
+	 position: absolute; 
+	 width: 670px;
+	 height: 500px;
+	 z-index:41;
+} 
+
+ #Rectangle_16 
+{ 
+	 left: 875px; 
+	 top: 9733px; 
+	 position: absolute; 
+	 width: 672px;
+	 height: 503px;
+	 z-index:42;
+} 
+
+ #placehoder_0 
+{ 
+	 left: 875px; 
+	 top: 9734px; 
+	 position: absolute; 
+	 width: 670px;
+	 height: 500px;
+	 z-index:43;
+} 
+
+ #READMORE_0 
+{ 
+	 left: 722px; 
+	 top: 10151px; 
+	 position: absolute; 
+	 width: 88px;
+	 height: 10px;
+	 z-index:44;
+} 
+
+ #WEBDESIGN260620_0 
+{ 
+	 left: 596px; 
+	 top: 9950px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 12px;
+	 z-index:45;
+} 
+
+ #Loremipsumdolorsi_1 
+{ 
+	 left: 382px; 
+	 top: 9990px; 
+	 position: absolute; 
+	 width: 397px;
+	 height: 71px;
+	 z-index:46;
+} 
+
+ #LOREMIPSUMDOLORADO_0 
+{ 
+	 left: 460px; 
+	 top: 9843px; 
+	 position: absolute; 
+	 width: 350px;
+	 height: 56px;
+	 z-index:47;
+} 
+
+ #Rectangle_17 
+{ 
+	 left: 806px; 
+	 top: 9936px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 63px;
+	 z-index:48;
+} 
+
+ #Rectangle_18 
+{ 
+	 left: 650px; 
+	 top: 10154px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 4px;
+	 z-index:49;
+} 
+
+ #READMORE_1 
+{ 
+	 left: 1093px; 
+	 top: 9553px; 
+	 position: absolute; 
+	 width: 88px;
+	 height: 10px;
+	 z-index:50;
+} 
+
+ #WEBDESIGN260620_1 
+{ 
+	 left: 1127px; 
+	 top: 9352px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 12px;
+	 z-index:51;
+} 
+
+ #Loremipsumdolorsi_2 
+{ 
+	 left: 1127px; 
+	 top: 9392px; 
+	 position: absolute; 
+	 width: 398px;
+	 height: 71px;
+	 z-index:52;
+} 
+
+ #Bitmap_1 
+{ 
+	 left: 375px; 
+	 top: 9144px; 
+	 position: absolute; 
+	 width: 670px;
+	 height: 500px;
+	 z-index:53;
+} 
+
+ #Rectangle_19 
+{ 
+	 left: 374px; 
+	 top: 9142px; 
+	 position: absolute; 
+	 width: 672px;
+	 height: 504px;
+	 z-index:54;
+} 
+
+ #placehoder_1 
+{ 
+	 left: 375px; 
+	 top: 9144px; 
+	 position: absolute; 
+	 width: 670px;
+	 height: 500px;
+	 z-index:55;
+} 
+
+ #LOREMIPSUMDOLORADO_1 
+{ 
+	 left: 1093px; 
+	 top: 9245px; 
+	 position: absolute; 
+	 width: 350px;
+	 height: 56px;
+	 z-index:56;
+} 
+
+ #Rectangle_20 
+{ 
+	 left: 1092px; 
+	 top: 9338px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 63px;
+	 z-index:57;
+} 
+
+ #Rectangle_21 
+{ 
+	 left: 1191px; 
+	 top: 9557px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 3px;
+	 z-index:58;
+} 
+
+ #OURBLOG 
+{ 
+	 left: 911px; 
+	 top: 8887px; 
+	 position: absolute; 
+	 width: 97px;
+	 height: 10px;
+	 z-index:59;
+} 
+
+ #VOLTERLATESTNEWS 
+{ 
+	 left: 690px; 
+	 top: 8931px; 
+	 position: absolute; 
+	 width: 539px;
+	 height: 33px;
+	 z-index:60;
+} 
+
+ #Loremipsumdolorsi_3 
+{ 
+	 left: 523px; 
+	 top: 9008px; 
+	 position: absolute; 
+	 width: 874px;
+	 height: 44px;
+	 z-index:61;
+} 
+
+ #Rectangle_22 
+{ 
+	 left: -1px; 
+	 top: 7202px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 1528px;
+	 z-index:62;
+} 
+
+ #Bitmap_2 
+{ 
+	 left: 0px; 
+	 top: 7707px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1022px;
+	 z-index:63;
+} 
+
+ #Loremipsumdolorsi_4 
+{ 
+	 left: 523px; 
+	 top: 8082px; 
+	 position: absolute; 
+	 width: 874px;
+	 height: 44px;
+	 z-index:64;
+} 
+
+ #VOLTERCREATIVEPSD 
+{ 
+	 left: 689px; 
+	 top: 8016px; 
+	 position: absolute; 
+	 width: 544px;
+	 height: 23px;
+	 z-index:65;
+} 
+
+ #DONTMISSIT 
+{ 
+	 left: 894px; 
+	 top: 7979px; 
+	 position: absolute; 
+	 width: 134px;
+	 height: 11px;
+	 z-index:66;
+} 
+
+ #Rectangle_23 
+{ 
+	 left: 869px; 
+	 top: 8531px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 52px;
+	 z-index:67;
+} 
+
+ #PURCHASENOW 
+{ 
+	 left: 893px; 
+	 top: 8552px; 
+	 position: absolute; 
+	 width: 134px;
+	 height: 12px;
+	 z-index:68;
+} 
+
+ #MacBookSilver 
+{ 
+	 left: 405px; 
+	 top: 8198px; 
+	 position: absolute; 
+	 width: 513px;
+	 height: 299px;
+	 z-index:69;
+} 
+
+ #MacBookSpaceGray 
+{ 
+	 left: 950px; 
+	 top: 8198px; 
+	 position: absolute; 
+	 width: 513px;
+	 height: 299px;
+	 z-index:70;
+} 
+
+ #Bitmap_3 
+{ 
+	 left: 1028px; 
+	 top: 8218px; 
+	 position: absolute; 
+	 width: 362px;
+	 height: 229px;
+	 z-index:71;
+} 
+
+ #Bitmap_4 
+{ 
+	 left: 480px; 
+	 top: 8218px; 
+	 position: absolute; 
+	 width: 365px;
+	 height: 229px;
+	 z-index:72;
+} 
+
+ #MacBookGold 
+{ 
+	 left: 676px; 
+	 top: 8176px; 
+	 position: absolute; 
+	 width: 569px;
+	 height: 331px;
+	 z-index:73;
+} 
+
+ #Bitmap_5 
+{ 
+	 left: 757px; 
+	 top: 8201px; 
+	 position: absolute; 
+	 width: 410px;
+	 height: 249px;
+	 z-index:74;
+} 
+
+ #100RESPONSIVE 
+{ 
+	 left: 1043px; 
+	 top: 7533px; 
+	 position: absolute; 
+	 width: 167px;
+	 height: 13px;
+	 z-index:75;
+} 
+
+ #Loremipsumdolorsi_5 
+{ 
+	 left: 1043px; 
+	 top: 7564px; 
+	 position: absolute; 
+	 width: 186px;
+	 height: 64px;
+	 z-index:76;
+} 
+
+ #Forma1 
+{ 
+	 left: 1341px; 
+	 top: 7483px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 27px;
+	 z-index:77;
+} 
+
+ #ELEGANUNIQUE 
+{ 
+	 left: 1344px; 
+	 top: 7533px; 
+	 position: absolute; 
+	 width: 169px;
+	 height: 16px;
+	 z-index:78;
+} 
+
+ #Loremipsumdolorsi_6 
+{ 
+	 left: 1343px; 
+	 top: 7564px; 
+	 position: absolute; 
+	 width: 186px;
+	 height: 64px;
+	 z-index:79;
+} 
+
+ #PARALAXSLIDER 
+{ 
+	 left: 1044px; 
+	 top: 7723px; 
+	 position: absolute; 
+	 width: 155px;
+	 height: 13px;
+	 z-index:80;
+} 
+
+ #Loremipsumdolorsi_7 
+{ 
+	 left: 1043px; 
+	 top: 7754px; 
+	 position: absolute; 
+	 width: 186px;
+	 height: 64px;
+	 z-index:81;
+} 
+
+ #MOTIONGRAPHIC 
+{ 
+	 left: 1344px; 
+	 top: 7723px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 13px;
+	 z-index:82;
+} 
+
+ #Loremipsumdolorsi_8 
+{ 
+	 left: 1343px; 
+	 top: 7754px; 
+	 position: absolute; 
+	 width: 186px;
+	 height: 64px;
+	 z-index:83;
+} 
+
+ #Forma1_0 
+{ 
+	 left: 1041px; 
+	 top: 7488px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 22px;
+	 z-index:84;
+} 
+
+ #Forma1_1 
+{ 
+	 left: 1341px; 
+	 top: 7671px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:85;
+} 
+
+ #Forma1_2 
+{ 
+	 left: 1041px; 
+	 top: 7671px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 28px;
+	 z-index:86;
+} 
+
+ #Loremipsumdolorsi_9 
+{ 
+	 left: 377px; 
+	 top: 7539px; 
+	 position: absolute; 
+	 width: 502px;
+	 height: 71px;
+	 z-index:87;
+} 
+
+ #Loremipsumdolorsi_10 
+{ 
+	 left: 377px; 
+	 top: 7644px; 
+	 position: absolute; 
+	 width: 502px;
+	 height: 71px;
+	 z-index:88;
+} 
+
+ #OURFEATURES 
+{ 
+	 left: 376px; 
+	 top: 7357px; 
+	 position: absolute; 
+	 width: 142px;
+	 height: 10px;
+	 z-index:89;
+} 
+
+ #THEREASONWORKWITH 
+{ 
+	 left: 377px; 
+	 top: 7400px; 
+	 position: absolute; 
+	 width: 477px;
+	 height: 87px;
+	 z-index:90;
+} 
+
+ #Rectangle_24 
+{ 
+	 left: -1px; 
+	 top: 6121px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 1084px;
+	 z-index:91;
+} 
+
+ #PREV 
+{ 
+	 left: 425px; 
+	 top: 7035px; 
+	 position: absolute; 
+	 width: 42px;
+	 height: 10px;
+	 z-index:92;
+} 
+
+ #layer_010203 
+{ 
+	 left: 886px; 
+	 top: 7036px; 
+	 position: absolute; 
+	 width: 150px;
+	 height: 10px;
+	 z-index:93;
+} 
+
+ #NEXT 
+{ 
+	 left: 1457px; 
+	 top: 7035px; 
+	 position: absolute; 
+	 width: 40px;
+	 height: 10px;
+	 z-index:94;
+} 
+
+ #Rectangle_25 
+{ 
+	 left: 374px; 
+	 top: 7038px; 
+	 position: absolute; 
+	 width: 42px;
+	 height: 5px;
+	 z-index:95;
+} 
+
+ #Rectangle_26 
+{ 
+	 left: 1503px; 
+	 top: 7038px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 5px;
+	 z-index:96;
+} 
+
+ #Bitmap_6 
+{ 
+	 left: 375px; 
+	 top: 6577px; 
+	 position: absolute; 
+	 width: 370px;
+	 height: 400px;
+	 z-index:97;
+} 
+
+ #Rectangle_27 
+{ 
+	 left: 374px; 
+	 top: 6576px; 
+	 position: absolute; 
+	 width: 372px;
+	 height: 402px;
+	 z-index:98;
+} 
+
+ #placeholder 
+{ 
+	 left: 375px; 
+	 top: 6577px; 
+	 position: absolute; 
+	 width: 370px;
+	 height: 400px;
+	 z-index:99;
+} 
+
+ #Rectangle_28 
+{ 
+	 left: 374px; 
+	 top: 6604px; 
+	 position: absolute; 
+	 width: 125px;
+	 height: 36px;
+	 z-index:100;
+} 
+
+ #BRANDING 
+{ 
+	 left: 400px; 
+	 top: 6617px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 9px;
+	 z-index:101;
+} 
+
+ #Bitmap_7 
+{ 
+	 left: 0px; 
+	 top: 6577px; 
+	 position: absolute; 
+	 width: 345px;
+	 height: 400px;
+	 z-index:102;
+} 
+
+ #Rectangle_29 
+{ 
+	 left: -26px; 
+	 top: 6576px; 
+	 position: absolute; 
+	 width: 372px;
+	 height: 402px;
+	 z-index:103;
+} 
+
+ #placeholder_0 
+{ 
+	 left: 0px; 
+	 top: 6577px; 
+	 position: absolute; 
+	 width: 345px;
+	 height: 400px;
+	 z-index:104;
+} 
+
+ #Bitmap_8 
+{ 
+	 left: 1575px; 
+	 top: 6577px; 
+	 position: absolute; 
+	 width: 345px;
+	 height: 400px;
+	 z-index:105;
+} 
+
+ #Rectangle_30 
+{ 
+	 left: 1574px; 
+	 top: 6576px; 
+	 position: absolute; 
+	 width: 372px;
+	 height: 402px;
+	 z-index:106;
+} 
+
+ #placeholder_1 
+{ 
+	 left: 1575px; 
+	 top: 6577px; 
+	 position: absolute; 
+	 width: 345px;
+	 height: 400px;
+	 z-index:107;
+} 
+
+ #Bitmap_9 
+{ 
+	 left: 1175px; 
+	 top: 6577px; 
+	 position: absolute; 
+	 width: 370px;
+	 height: 400px;
+	 z-index:108;
+} 
+
+ #Rectangle_31 
+{ 
+	 left: 1174px; 
+	 top: 6576px; 
+	 position: absolute; 
+	 width: 372px;
+	 height: 402px;
+	 z-index:109;
+} 
+
+ #placeholder_2 
+{ 
+	 left: 1175px; 
+	 top: 6577px; 
+	 position: absolute; 
+	 width: 370px;
+	 height: 400px;
+	 z-index:110;
+} 
+
+ #Rectangle_32 
+{ 
+	 left: 1174px; 
+	 top: 6604px; 
+	 position: absolute; 
+	 width: 125px;
+	 height: 36px;
+	 z-index:111;
+} 
+
+ #BRANDING_0 
+{ 
+	 left: 1200px; 
+	 top: 6617px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 9px;
+	 z-index:112;
+} 
+
+ #Bitmap_10 
+{ 
+	 left: 775px; 
+	 top: 6577px; 
+	 position: absolute; 
+	 width: 370px;
+	 height: 400px;
+	 z-index:113;
+} 
+
+ #Rectangle_33 
+{ 
+	 left: 773px; 
+	 top: 6576px; 
+	 position: absolute; 
+	 width: 374px;
+	 height: 402px;
+	 z-index:114;
+} 
+
+ #placeholder_3 
+{ 
+	 left: 775px; 
+	 top: 6577px; 
+	 position: absolute; 
+	 width: 370px;
+	 height: 400px;
+	 z-index:115;
+} 
+
+ #Rectangle_34 
+{ 
+	 left: 773px; 
+	 top: 6604px; 
+	 position: absolute; 
+	 width: 127px;
+	 height: 36px;
+	 z-index:116;
+} 
+
+ #BRANDING_1 
+{ 
+	 left: 800px; 
+	 top: 6617px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 9px;
+	 z-index:117;
+} 
+
+ #ALLWEBDESIGN 
+{ 
+	 left: 1085px; 
+	 top: 6466px; 
+	 position: absolute; 
+	 width: 294px;
+	 height: 10px;
+	 z-index:118;
+} 
+
+ #Rectangle_35 
+{ 
+	 left: 1083px; 
+	 top: 6482px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 5px;
+	 z-index:119;
+} 
+
+ #OURPORTFOLIO 
+{ 
+	 left: 379px; 
+	 top: 6324px; 
+	 position: absolute; 
+	 width: 155px;
+	 height: 10px;
+	 z-index:120;
+} 
+
+ #BEAUTIFULWORKS 
+{ 
+	 left: 380px; 
+	 top: 6368px; 
+	 position: absolute; 
+	 width: 461px;
+	 height: 33px;
+	 z-index:121;
+} 
+
+ #Loremipsumdolorsi_11 
+{ 
+	 left: 380px; 
+	 top: 6444px; 
+	 position: absolute; 
+	 width: 543px;
+	 height: 44px;
+	 z-index:122;
+} 
+
+ #Rectangle_36 
+{ 
+	 left: -1px; 
+	 top: 5102px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 1022px;
+	 z-index:123;
+} 
+
+ #Bitmap_11 
+{ 
+	 left: 170px; 
+	 top: 5173px; 
+	 position: absolute; 
+	 width: 1520px;
+	 height: 950px;
+	 z-index:124;
+} 
+
+ #placeholder_4 
+{ 
+	 left: 0px; 
+	 top: 5103px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1020px;
+	 z-index:125;
+} 
+
+ #Rectangle_37 
+{ 
+	 left: 975px; 
+	 top: 5949px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 6px;
+	 z-index:126;
+} 
+
+ #layer_02 
+{ 
+	 left: 978px; 
+	 top: 5624px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 62px;
+	 z-index:127;
+} 
+
+ #WORKWITHUS 
+{ 
+	 left: 977px; 
+	 top: 5933px; 
+	 position: absolute; 
+	 width: 136px;
+	 height: 11px;
+	 z-index:128;
+} 
+
+ #Loremipsumdolorsi_12 
+{ 
+	 left: 1103px; 
+	 top: 5622px; 
+	 position: absolute; 
+	 width: 419px;
+	 height: 71px;
+	 z-index:129;
+} 
+
+ #minimveniamquis 
+{ 
+	 left: 977px; 
+	 top: 5704px; 
+	 position: absolute; 
+	 width: 538px;
+	 height: 153px;
+	 z-index:130;
+} 
+
+ #Rectangle_38 
+{ 
+	 left: 1025px; 
+	 top: 5514px; 
+	 position: absolute; 
+	 width: 214px;
+	 height: 51px;
+	 z-index:131;
+} 
+
+ #0102MAKIN 
+{ 
+	 left: 993px; 
+	 top: 5535px; 
+	 position: absolute; 
+	 width: 379px;
+	 height: 11px;
+	 z-index:132;
+} 
+
+ #Rectangle_39 
+{ 
+	 left: 1025px; 
+	 top: 5514px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 51px;
+	 z-index:133;
+} 
+
+ #Rectangle_40 
+{ 
+	 left: 1287px; 
+	 top: 5514px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 51px;
+	 z-index:134;
+} 
+
+ #Rectangle_41 
+{ 
+	 left: 1340px; 
+	 top: 5514px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 51px;
+	 z-index:135;
+} 
+
+ #Rectangle_42 
+{ 
+	 left: 1389px; 
+	 top: 5514px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 51px;
+	 z-index:136;
+} 
+
+ #Rectangle_43 
+{ 
+	 left: 974px; 
+	 top: 5514px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 51px;
+	 z-index:137;
+} 
+
+ #Rectangle_44 
+{ 
+	 left: 1236px; 
+	 top: 5514px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 51px;
+	 z-index:138;
+} 
+
+ #WORKINGPROCESS 
+{ 
+	 left: 980px; 
+	 top: 5323px; 
+	 position: absolute; 
+	 width: 478px;
+	 height: 33px;
+	 z-index:139;
+} 
+
+ #WHATWEDO 
+{ 
+	 left: 978px; 
+	 top: 5282px; 
+	 position: absolute; 
+	 width: 135px;
+	 height: 11px;
+	 z-index:140;
+} 
+
+ #Loremipsumdolorsi_13 
+{ 
+	 left: 978px; 
+	 top: 5394px; 
+	 position: absolute; 
+	 width: 526px;
+	 height: 44px;
+	 z-index:141;
+} 
+
+ #Rectangle_45 
+{ 
+	 left: -1px; 
+	 top: 2678px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 2427px;
+	 z-index:142;
+} 
+
+ #Rectangle_46 
+{ 
+	 left: 426px; 
+	 top: 4462px; 
+	 position: absolute; 
+	 width: 433px;
+	 height: 432px;
+	 z-index:143;
+} 
+
+ #WEBDESIGN260620_2 
+{ 
+	 left: 378px; 
+	 top: 4499px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 184px;
+	 z-index:144;
+} 
+
+ #03WEBDESIGN 
+{ 
+	 left: 988px; 
+	 top: 4445px; 
+	 position: absolute; 
+	 width: 302px;
+	 height: 26px;
+	 z-index:145;
+} 
+
+ #OURSERVICES 
+{ 
+	 left: 990px; 
+	 top: 4411px; 
+	 position: absolute; 
+	 width: 148px;
+	 height: 11px;
+	 z-index:146;
+} 
+
+ #VIEWALLWORKS 
+{ 
+	 left: 1036px; 
+	 top: 4872px; 
+	 position: absolute; 
+	 width: 129px;
+	 height: 10px;
+	 z-index:147;
+} 
+
+ #Rectangle_47 
+{ 
+	 left: 986px; 
+	 top: 4520px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 63px;
+	 z-index:148;
+} 
+
+ #Loremipsumdolorsi_14 
+{ 
+	 left: 1018px; 
+	 top: 4536px; 
+	 position: absolute; 
+	 width: 488px;
+	 height: 234px;
+	 z-index:149;
+} 
+
+ #Rectangle_48 
+{ 
+	 left: 1014px; 
+	 top: 4853px; 
+	 position: absolute; 
+	 width: 173px;
+	 height: 49px;
+	 z-index:150;
+} 
+
+ #Bitmap_12 
+{ 
+	 left: 400px; 
+	 top: 4489px; 
+	 position: absolute; 
+	 width: 430px;
+	 height: 430px;
+	 z-index:151;
+} 
+
+ #placeholder_5 
+{ 
+	 left: 400px; 
+	 top: 4489px; 
+	 position: absolute; 
+	 width: 430px;
+	 height: 430px;
+	 z-index:152;
+} 
+
+ #Rectangle_49 
+{ 
+	 left: 426px; 
+	 top: 4487px; 
+	 position: absolute; 
+	 width: 406px;
+	 height: 407px;
+	 z-index:153;
+} 
+
+ #Rectangle_50 
+{ 
+	 left: 666px; 
+	 top: 4402px; 
+	 position: absolute; 
+	 width: 263px;
+	 height: 254px;
+	 z-index:154;
+} 
+
+ #CompositePath_6 
+{ 
+	 left: 725px; 
+	 top: 4455px; 
+	 position: absolute; 
+	 width: 144px;
+	 height: 144px;
+	 z-index:155;
+} 
+
+ #AWARDWINNER 
+{ 
+	 left: 744px; 
+	 top: 4481px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 9px;
+	 z-index:156;
+} 
+
+ #layer_20162017 
+{ 
+	 left: 763px; 
+	 top: 4565px; 
+	 position: absolute; 
+	 width: 72px;
+	 height: 10px;
+	 z-index:157;
+} 
+
+ #Rectangle_51 
+{ 
+	 left: 1061px; 
+	 top: 3830px; 
+	 position: absolute; 
+	 width: 433px;
+	 height: 433px;
+	 z-index:158;
+} 
+
+ #02PHOTOGRAPHY 
+{ 
+	 left: 587px; 
+	 top: 3820px; 
+	 position: absolute; 
+	 width: 358px;
+	 height: 26px;
+	 z-index:159;
+} 
+
+ #OURSERVICES_0 
+{ 
+	 left: 782px; 
+	 top: 3786px; 
+	 position: absolute; 
+	 width: 148px;
+	 height: 11px;
+	 z-index:160;
+} 
+
+ #PHOTOGRAPHY26062 
+{ 
+	 left: 1532px; 
+	 top: 3861px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 202px;
+	 z-index:161;
+} 
+
+ #VIEWALLWORKS_0 
+{ 
+	 left: 753px; 
+	 top: 4234px; 
+	 position: absolute; 
+	 width: 129px;
+	 height: 10px;
+	 z-index:162;
+} 
+
+ #Rectangle_52 
+{ 
+	 left: 926px; 
+	 top: 3881px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 63px;
+	 z-index:163;
+} 
+
+ #Loremipsumdolorsi_15 
+{ 
+	 left: 397px; 
+	 top: 3898px; 
+	 position: absolute; 
+	 width: 502px;
+	 height: 234px;
+	 z-index:164;
+} 
+
+ #Rectangle_53 
+{ 
+	 left: 729px; 
+	 top: 4214px; 
+	 position: absolute; 
+	 width: 173px;
+	 height: 49px;
+	 z-index:165;
+} 
+
+ #Bitmap_13 
+{ 
+	 left: 1090px; 
+	 top: 3858px; 
+	 position: absolute; 
+	 width: 430px;
+	 height: 430px;
+	 z-index:166;
+} 
+
+ #placeholder_6 
+{ 
+	 left: 1090px; 
+	 top: 3858px; 
+	 position: absolute; 
+	 width: 430px;
+	 height: 430px;
+	 z-index:167;
+} 
+
+ #Rectangle_54 
+{ 
+	 left: 1088px; 
+	 top: 3857px; 
+	 position: absolute; 
+	 width: 406px;
+	 height: 406px;
+	 z-index:168;
+} 
+
+ #Rectangle_55 
+{ 
+	 left: 991px; 
+	 top: 3772px; 
+	 position: absolute; 
+	 width: 263px;
+	 height: 252px;
+	 z-index:169;
+} 
+
+ #CompositePath_7 
+{ 
+	 left: 1051px; 
+	 top: 3851px; 
+	 position: absolute; 
+	 width: 144px;
+	 height: 114px;
+	 z-index:170;
+} 
+
+ #ORIGINALITYAWARDWI 
+{ 
+	 left: 1072px; 
+	 top: 3819px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 21px;
+	 z-index:171;
+} 
+
+ #Rectangle_56 
+{ 
+	 left: 404px; 
+	 top: 3131px; 
+	 position: absolute; 
+	 width: 432px;
+	 height: 434px;
+	 z-index:172;
+} 
+
+ #BRANDINGDESIGN26 
+{ 
+	 left: 378px; 
+	 top: 3137px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 230px;
+	 z-index:173;
+} 
+
+ #01BRANDINGDESIGN 
+{ 
+	 left: 988px; 
+	 top: 3176px; 
+	 position: absolute; 
+	 width: 407px;
+	 height: 26px;
+	 z-index:174;
+} 
+
+ #OURSERVICES_1 
+{ 
+	 left: 989px; 
+	 top: 3142px; 
+	 position: absolute; 
+	 width: 148px;
+	 height: 11px;
+	 z-index:175;
+} 
+
+ #VIEWALLWORKS_1 
+{ 
+	 left: 1039px; 
+	 top: 3600px; 
+	 position: absolute; 
+	 width: 129px;
+	 height: 10px;
+	 z-index:176;
+} 
+
+ #Rectangle_57 
+{ 
+	 left: 989px; 
+	 top: 3248px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 63px;
+	 z-index:177;
+} 
+
+ #Loremipsumdolorsi_16 
+{ 
+	 left: 1022px; 
+	 top: 3264px; 
+	 position: absolute; 
+	 width: 488px;
+	 height: 234px;
+	 z-index:178;
+} 
+
+ #Rectangle_58 
+{ 
+	 left: 1018px; 
+	 top: 3581px; 
+	 position: absolute; 
+	 width: 173px;
+	 height: 48px;
+	 z-index:179;
+} 
+
+ #Rectangle_59 
+{ 
+	 left: 434px; 
+	 top: 3161px; 
+	 position: absolute; 
+	 width: 432px;
+	 height: 434px;
+	 z-index:180;
+} 
+
+ #Bitmap_14 
+{ 
+	 left: 498px; 
+	 top: 3226px; 
+	 position: absolute; 
+	 width: 430px;
+	 height: 430px;
+	 z-index:181;
+} 
+
+ #placeholder_7 
+{ 
+	 left: 498px; 
+	 top: 3226px; 
+	 position: absolute; 
+	 width: 430px;
+	 height: 430px;
+	 z-index:182;
+} 
+
+ #CompositePath_8 
+{ 
+	 left: 636px; 
+	 top: 3292px; 
+	 position: absolute; 
+	 width: 154px;
+	 height: 134px;
+	 z-index:183;
+} 
+
+ #CompositePath_9 
+{ 
+	 left: 696px; 
+	 top: 3378px; 
+	 position: absolute; 
+	 width: 34px;
+	 height: 29px;
+	 z-index:184;
+} 
+
+ #SINCE 
+{ 
+	 left: 673px; 
+	 top: 3354px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 6px;
+	 z-index:185;
+} 
+
+ #layer_1903 
+{ 
+	 left: 728px; 
+	 top: 3354px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 6px;
+	 z-index:186;
+} 
+
+ #THEBESTWECANDO 
+{ 
+	 left: 697px; 
+	 top: 2882px; 
+	 position: absolute; 
+	 width: 526px;
+	 height: 33px;
+	 z-index:187;
+} 
+
+ #Loremipsumdolorsi_17 
+{ 
+	 left: 579px; 
+	 top: 2953px; 
+	 position: absolute; 
+	 width: 762px;
+	 height: 71px;
+	 z-index:188;
+} 
+
+ #OURTEAMSKILLS 
+{ 
+	 left: 868px; 
+	 top: 2842px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 11px;
+	 z-index:189;
+} 
+
+ #Rectangle_60 
+{ 
+	 left: -1px; 
+	 top: 1079px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 1602px;
+	 z-index:190;
+} 
+
+ #Bitmap_15 
+{ 
+	 left: 360px; 
+	 top: 1945px; 
+	 position: absolute; 
+	 width: 1200px;
+	 height: 735px;
+	 z-index:191;
+} 
+
+ #placeholder_8 
+{ 
+	 left: 375px; 
+	 top: 1910px; 
+	 position: absolute; 
+	 width: 1170px;
+	 height: 770px;
+	 z-index:192;
+} 
+
+ #Rectangle_61 
+{ 
+	 left: 374px; 
+	 top: 1464px; 
+	 position: absolute; 
+	 width: 392px;
+	 height: 224px;
+	 z-index:193;
+} 
+
+ #Rectangle_62 
+{ 
+	 left: 764px; 
+	 top: 1464px; 
+	 position: absolute; 
+	 width: 392px;
+	 height: 224px;
+	 z-index:194;
+} 
+
+ #Loremipsumdolorsi_18 
+{ 
+	 left: 461px; 
+	 top: 1565px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 61px;
+	 z-index:195;
+} 
+
+ #Rectangle_63 
+{ 
+	 left: 1154px; 
+	 top: 1464px; 
+	 position: absolute; 
+	 width: 392px;
+	 height: 224px;
+	 z-index:196;
+} 
+
+ #Rectangle_64 
+{ 
+	 left: 374px; 
+	 top: 1687px; 
+	 position: absolute; 
+	 width: 392px;
+	 height: 222px;
+	 z-index:197;
+} 
+
+ #Rectangle_65 
+{ 
+	 left: 1154px; 
+	 top: 1687px; 
+	 position: absolute; 
+	 width: 392px;
+	 height: 222px;
+	 z-index:198;
+} 
+
+ #Rectangle_66 
+{ 
+	 left: 764px; 
+	 top: 1687px; 
+	 position: absolute; 
+	 width: 392px;
+	 height: 222px;
+	 z-index:199;
+} 
+
+ #UNLIMITEDFEATURES 
+{ 
+	 left: 462px; 
+	 top: 1528px; 
+	 position: absolute; 
+	 width: 172px;
+	 height: 11px;
+	 z-index:200;
+} 
+
+ #Loremipsumdolorsi_19 
+{ 
+	 left: 1238px; 
+	 top: 1565px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 61px;
+	 z-index:201;
+} 
+
+ #CUSTOMSHORTCODE 
+{ 
+	 left: 1238px; 
+	 top: 1528px; 
+	 position: absolute; 
+	 width: 171px;
+	 height: 11px;
+	 z-index:202;
+} 
+
+ #Loremipsumdolorsi_20 
+{ 
+	 left: 461px; 
+	 top: 1781px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 61px;
+	 z-index:203;
+} 
+
+ #PIXELPERFECT 
+{ 
+	 left: 462px; 
+	 top: 1744px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 11px;
+	 z-index:204;
+} 
+
+ #Loremipsumdolorsi_21 
+{ 
+	 left: 849px; 
+	 top: 1781px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 61px;
+	 z-index:205;
+} 
+
+ #EASYINSTALL 
+{ 
+	 left: 850px; 
+	 top: 1744px; 
+	 position: absolute; 
+	 width: 107px;
+	 height: 11px;
+	 z-index:206;
+} 
+
+ #Loremipsumdolorsi_22 
+{ 
+	 left: 1238px; 
+	 top: 1781px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 61px;
+	 z-index:207;
+} 
+
+ #SEOOPTIMIZED 
+{ 
+	 left: 1238px; 
+	 top: 1744px; 
+	 position: absolute; 
+	 width: 125px;
+	 height: 11px;
+	 z-index:208;
+} 
+
+ #CompositePath_10 
+{ 
+	 left: 411px; 
+	 top: 1521px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 27px;
+	 z-index:209;
+} 
+
+ #CompositePath_11 
+{ 
+	 left: 411px; 
+	 top: 1737px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 29px;
+	 z-index:210;
+} 
+
+ #CompositePath_12 
+{ 
+	 left: 1189px; 
+	 top: 1519px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 32px;
+	 z-index:211;
+} 
+
+ #CompositePath_13 
+{ 
+	 left: 1188px; 
+	 top: 1734px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 30px;
+	 z-index:212;
+} 
+
+ #CompositePath_14 
+{ 
+	 left: 799px; 
+	 top: 1734px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 33px;
+	 z-index:213;
+} 
+
+ #Loremipsumdolorsi_23 
+{ 
+	 left: 849px; 
+	 top: 1565px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 61px;
+	 z-index:214;
+} 
+
+ #CREATIVEDESIGN 
+{ 
+	 left: 849px; 
+	 top: 1528px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 11px;
+	 z-index:215;
+} 
+
+ #CompositePath_15 
+{ 
+	 left: 798px; 
+	 top: 1518px; 
+	 position: absolute; 
+	 width: 34px;
+	 height: 31px;
+	 z-index:216;
+} 
+
+ #Rectangle_67 
+{ 
+	 left: 863px; 
+	 top: 1956px; 
+	 position: absolute; 
+	 width: 194px;
+	 height: 51px;
+	 z-index:217;
+} 
+
+ #WORKWITHUS_0 
+{ 
+	 left: 892px; 
+	 top: 1977px; 
+	 position: absolute; 
+	 width: 136px;
+	 height: 11px;
+	 z-index:218;
+} 
+
+ #Loremipsumdolorsi_24 
+{ 
+	 left: 427px; 
+	 top: 1281px; 
+	 position: absolute; 
+	 width: 506px;
+	 height: 98px;
+	 z-index:219;
+} 
+
+ #layer_010203_0 
+{ 
+	 left: 824px; 
+	 top: 1238px; 
+	 position: absolute; 
+	 width: 111px;
+	 height: 10px;
+	 z-index:220;
+} 
+
+ #Rectangle_68 
+{ 
+	 left: 816px; 
+	 top: 1252px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 5px;
+	 z-index:221;
+} 
+
+ #WHOWEARE 
+{ 
+	 left: 986px; 
+	 top: 1238px; 
+	 position: absolute; 
+	 width: 143px;
+	 height: 10px;
+	 z-index:222;
+} 
+
+ #WEAREVOLTERCREATI 
+{ 
+	 left: 988px; 
+	 top: 1284px; 
+	 position: absolute; 
+	 width: 501px;
+	 height: 87px;
+	 z-index:223;
+} 
+
+ #Rectangle_69 
+{ 
+	 left: -1px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 1083px;
+	 z-index:224;
+} 
+
+ #Bitmap_16 
+{ 
+	 left: 208px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1080px;
+	 height: 1080px;
+	 z-index:225;
+} 
+
+ #Bitmap_17 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1072px;
+	 z-index:226;
+} 
+
+ #placeholder_9 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1080px;
+	 z-index:227;
+} 
+
+ #CONTACTUS 
+{ 
+	 left: 47px; 
+	 top: 533px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 105px;
+	 z-index:228;
+} 
+
+ #layer_01020304 
+{ 
+	 left: 1861px; 
+	 top: 532px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 94px;
+	 z-index:229;
+} 
+
+ #CREATIVESTUDIO 
+{ 
+	 left: 945px; 
+	 top: 382px; 
+	 position: absolute; 
+	 width: 615px;
+	 height: 208px;
+	 z-index:230;
+} 
+
+ #WEMAKEITEASY 
+{ 
+	 left: 946px; 
+	 top: 319px; 
+	 position: absolute; 
+	 width: 523px;
+	 height: 11px;
+	 z-index:231;
+} 
+
+ #Rectangle_70 
+{ 
+	 left: 944px; 
+	 top: 763px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 52px;
+	 z-index:232;
+} 
+
+ #Bitmap_18 
+{ 
+	 left: 906px; 
+	 top: 410px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 93px;
+	 z-index:233;
+} 
+
+ #Loremipsumdolorsi_25 
+{ 
+	 left: 947px; 
+	 top: 638px; 
+	 position: absolute; 
+	 width: 577px;
+	 height: 75px;
+	 z-index:234;
+} 
+
+ #PURCHASENOW_0 
+{ 
+	 left: 967px; 
+	 top: 783px; 
+	 position: absolute; 
+	 width: 134px;
+	 height: 12px;
+	 z-index:235;
+} 
+
+ #CompositePath_16 
+{ 
+	 left: 374px; 
+	 top: 45px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 27px;
+	 z-index:236;
+} 
+
+ #Path_0 
+{ 
+	 left: 433px; 
+	 top: 55px; 
+	 position: absolute; 
+	 width: 71px;
+	 height: 28px;
+	 z-index:237;
+} 
+
+ #HOMEABO 
+{ 
+	 left: 932px; 
+	 top: 58px; 
+	 position: absolute; 
+	 width: 613px;
+	 height: 10px;
+	 z-index:238;
+} 
+
+ #Rectangle_71 
+{ 
+	 left: 930px; 
+	 top: 72px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 6px;
+	 z-index:239;
+} 
+
+ #CompositePath_17 
+{ 
+	 left: 508px; 
+	 top: 60px; 
+	 position: absolute; 
+	 width: 125px;
+	 height: 14px;
+	 z-index:240;
+} 
